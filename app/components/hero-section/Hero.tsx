@@ -94,12 +94,10 @@ export default function Hero() {
           animate={animateIn1}
         >
           <p className="text-white/60 inline">I&apos;m </p>
-          <p className="text-white/60 inline">I&apos;m </p>
           <span className="bg-gradient-to-br bg-clip-text text-transparent from-[#7CC0C4] via-[#548FBA] to-[#3C84C7]">
             Wassim Baloul
           </span>
-          """_summary_
-          """          <p>a Full stack Developer</p>
+          <p>a Full stack Developer</p>
         </motion.h1>
 
         <motion.p
